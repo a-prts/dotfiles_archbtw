@@ -1,1 +1,1 @@
-#Dotfiles for Arch Hyprland config
+# Dotfiles for Arch Hyprland config
